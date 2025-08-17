@@ -847,7 +847,7 @@ input[type="submit"]:focus, input[type="button"]:focus{
     top: 0;
     left: 0;
     width: 47%;
-    background: url(http://placehold.it/1200x800) no-repeat center top/cover;
+    background: url(../img/bg.jpg) no-repeat center top/cover;
     height: 100%; 
 }
 
